@@ -10,7 +10,6 @@ import Alert from './components/Alert';
 import {
   createBrowser as Router,
   Switch,
-  Route,
   
 } from "react-router-dom";
 
